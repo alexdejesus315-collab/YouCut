@@ -1,0 +1,6 @@
+{
+  "name": "YouCut",
+  "description": "Corta vídeos automaticamente para formato 9:16 vertical, gera legendas inteligentes sincronizadas, traduz trechos escolhidos e sincroniza estilos dinâmicos com IA.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
